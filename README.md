@@ -1,4 +1,4 @@
 # Week09-Day04
 
-- User References
+- Model/Collection References
 - Mongoose Populate method
